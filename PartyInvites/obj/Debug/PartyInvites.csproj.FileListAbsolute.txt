@@ -16,3 +16,21 @@ C:\Users\Luca Anghileri\Documents\Visual Studio 2013\Projects\Chapter2\PartyInvi
 C:\Users\Luca Anghileri\Documents\Visual Studio 2013\Projects\Chapter2\PartyInvites\obj\Debug\PartyInvites.csprojResolveAssemblyReference.cache
 C:\Users\Luca Anghileri\Documents\Visual Studio 2013\Projects\Chapter2\PartyInvites\obj\Debug\PartyInvites.dll
 C:\Users\Luca Anghileri\Documents\Visual Studio 2013\Projects\Chapter2\PartyInvites\obj\Debug\PartyInvites.pdb
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\bin\PartyInvites.dll.config
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\bin\PartyInvites.dll
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\bin\PartyInvites.pdb
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\bin\System.Web.Helpers.dll
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\bin\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\bin\System.Web.Razor.dll
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\bin\System.Web.Webpages.Deployment.dll
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\bin\System.Web.Webpages.dll
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\bin\System.Web.Webpages.Razor.dll
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\bin\System.Web.Razor.xml
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\bin\System.Web.Webpages.xml
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\bin\System.Web.Webpages.Deployment.xml
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\bin\System.Web.Webpages.Razor.xml
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\bin\System.Web.Helpers.xml
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\bin\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\obj\Debug\PartyInvites.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\obj\Debug\PartyInvites.dll
+\\vmware-host\Shared Folders\Mac\PROGETTI\Ese\Chapter2\PartyInvites\obj\Debug\PartyInvites.pdb
