@@ -12,6 +12,7 @@ namespace PartyInvites
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();
+            //commento
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }
     }
